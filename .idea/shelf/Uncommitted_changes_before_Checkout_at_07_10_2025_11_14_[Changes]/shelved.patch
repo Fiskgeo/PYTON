@@ -1,0 +1,15 @@
+Index: lesson_01/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_01/.idea/misc.xml b/lesson_01/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1759824545323)
++++ b/lesson_01/.idea/misc.xml	(date 1759824545323)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
