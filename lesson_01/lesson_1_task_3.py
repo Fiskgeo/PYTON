@@ -1,5 +1,0 @@
-first_name = input("Ваше имя ")
-last_name = input("Ваша фамилия ")
-print("Вас зовут: ")
-print(first_name)
-print(last_name)
