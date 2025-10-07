@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="28-09-25">
-      <change afterPath="$PROJECT_DIR$/lesson_01/lesson_1_task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_01/lesson_1_task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_01/lesson_1_task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_01/lesson_1_task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_01/lesson_1_task_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,16 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
@@ -196,12 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1759822665525</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1759826490581</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759826490581</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="28-09-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="28-09-25" />
+    <MESSAGE value="07-10-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="07-10-25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
