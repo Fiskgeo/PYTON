@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
-      <change afterPath="$PROJECT_DIR$/lesson3/03_lesson/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/03_lesson/Address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/03_lesson/Mailing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/03_lesson/lesson_3_task_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +40,12 @@
     &quot;assignee&quot;: &quot;Fiskgeo&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Fiskgeo/PYTON/",
-    "accountId": "fe5a9abb-710f-412f-885d-da94bb09adc2"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fiskgeo/PYTON/&quot;,
+    &quot;accountId&quot;: &quot;fe5a9abb-710f-412f-885d-da94bb09adc2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -52,25 +54,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.lesson_2_task_2.executor": "Run",
-    "Python.lesson_2_task_3.executor": "Run",
-    "Python.lesson_2_task_4.executor": "Run",
-    "Python.lesson_2_task_5.executor": "Run",
-    "Python.lesson_2_task_6.executor": "Run",
-    "Python.lesson_2_task_7.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.user.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "lesson3",
-    "last_opened_file_path": "C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW",
-    "settings.editor.selected.configurable": "vcs.log"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.lesson_2_task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smartphone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lesson3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson3" />
@@ -78,8 +84,8 @@
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\PYTON\lesson2\02_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.user">
-    <configuration name="lesson_2_task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson_3_task_3">
+    <configuration name="lesson_3_task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2/02_lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/03_lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/02_lesson/lesson_2_task_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/03_lesson/lesson_3_task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_2_task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_3_task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2/02_lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/03_lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/02_lesson/lesson_2_task_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/03_lesson/lesson_3_task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_2_task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_3_task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,33 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2/02_lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/03_lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/02_lesson/lesson_2_task_6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson_2_task_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_HW" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2/02_lesson" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/02_lesson/lesson_2_task_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/03_lesson/lesson_3_task_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,6 +165,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="smartphone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/03_lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/03_lesson/smartphone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson_3_task_3" />
+        <item itemvalue="Python.lesson_3_task_2" />
+        <item itemvalue="Python.lesson_3_task_1" />
+        <item itemvalue="Python.smartphone" />
         <item itemvalue="Python.user" />
-        <item itemvalue="Python.lesson_2_task_7" />
-        <item itemvalue="Python.lesson_2_task_6" />
-        <item itemvalue="Python.lesson_2_task_5" />
-        <item itemvalue="Python.lesson_2_task_4" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +386,39 @@
       <option name="project" value="LOCAL" />
       <updated>1759908520345</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1759910035884</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1759910035884</updated>
+    </task>
+    <task id="LOCAL-00020" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1759910077083</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1759910077083</updated>
+    </task>
+    <task id="LOCAL-00021" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1759914408226</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1759914408226</updated>
+    </task>
+    <task id="LOCAL-00022" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1759915639557</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1759915639557</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
