@@ -24,7 +24,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_COMMON_BRANCH" value="lesson5" />
+    <option name="RECENT_COMMON_BRANCH" value="lesson_5" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
@@ -39,6 +39,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Fiskgeo/PYTON&quot;,
     &quot;accountId&quot;: &quot;fe5a9abb-710f-412f-885d-da94bb09adc2&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;Fiskgeo&quot;,
+    &quot;repository&quot;: &quot;PYTON&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -217,10 +227,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.smartphone" />
         <item itemvalue="Python.lesson_3_task_3" />
         <item itemvalue="Python.lesson_3_task_2" />
         <item itemvalue="Python.lesson_3_task_1" />
-        <item itemvalue="Python.smartphone" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +513,31 @@
       <option name="project" value="LOCAL" />
       <updated>1760605151591</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1760605557263</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1760605557263</updated>
+    </task>
+    <task id="LOCAL-00035" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1760605704718</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1760605704718</updated>
+    </task>
+    <task id="LOCAL-00036" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1760606533036</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1760606533036</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -540,7 +574,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lesson4" />
+                        <option value="origin/lesson5" />
                       </list>
                     </value>
                   </entry>
