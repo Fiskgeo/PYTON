@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25" />
+    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
+      <change afterPath="$PROJECT_DIR$/lesson5/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +67,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.lesson05_task1.executor": "Run",
     "Python.lesson_2_task_2.executor": "Run",
     "Python.lesson_2_task_3.executor": "Run",
     "Python.lesson_2_task_4.executor": "Run",
@@ -91,8 +97,8 @@
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\PYTON\lesson2\02_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="lesson_3_task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson05_task1">
+    <configuration name="lesson05_task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/03_lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson5/05_lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/03_lesson/lesson_3_task_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson05_task1" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.smartphone" />
         <item itemvalue="Python.lesson_3_task_3" />
         <item itemvalue="Python.lesson_3_task_2" />
-        <item itemvalue="Python.lesson_3_task_1" />
       </list>
     </recent_temporary>
   </component>
@@ -537,7 +543,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760606533036</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1760607380535</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1760607380535</updated>
+    </task>
+    <task id="LOCAL-00038" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1760607391195</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1760607391195</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="UnknownFeatures">
