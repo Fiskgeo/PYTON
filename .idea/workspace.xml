@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/05_lesson/lesson05_task4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +97,7 @@
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\PYTON\lesson2\02_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson05_task3">
+  <component name="RunManager" selected="Python.lesson05_task2">
     <configuration name="lesson05_task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
@@ -236,10 +232,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson05_task2" />
         <item itemvalue="Python.lesson05_task3" />
         <item itemvalue="Python.lesson05_task4" />
         <item itemvalue="Python.lesson05_task1" />
-        <item itemvalue="Python.lesson05_task2" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -595,7 +591,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760617318130</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1760681345295</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1760681345295</updated>
+    </task>
+    <task id="LOCAL-00044" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1760683157448</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1760683157448</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="UnknownFeatures">
