@@ -16,4 +16,4 @@ browser.get('http://uitestingplayground.com/dynamicid')
 button = browser.find_element(By.TAG_NAME, 'button')
 
 button.click()
-sleep(15)
+sleep(2)
