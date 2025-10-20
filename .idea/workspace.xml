@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25" />
+    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
+      <change afterPath="$PROJECT_DIR$/lesson6/06_lesson/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +80,7 @@
     "Python.lesson_3_task_3.executor": "Run",
     "Python.main.executor": "Run",
     "Python.smartphone.executor": "Run",
+    "Python.task_1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.user.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -95,7 +99,7 @@
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\PYTON\lesson2\02_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson05_task2">
+  <component name="RunManager" selected="Python.task_1">
     <configuration name="lesson05_task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
@@ -206,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson6/06_lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson6/06_lesson/task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_1" />
         <item itemvalue="Python.lesson05_task2" />
         <item itemvalue="Python.lesson05_task3" />
         <item itemvalue="Python.lesson05_task4" />
         <item itemvalue="Python.lesson05_task1" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -621,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760947274470</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1760947457122</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1760947457122</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="UnknownFeatures">
