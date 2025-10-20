@@ -8,7 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 
 service = ChromeService(ChromeDriverManager().install())
-browser = webdriver.Chrome(service = service)
+browser = webdriver.Chrome(service=service)
 
 
 browser.get('http://uitestingplayground.com/dynamicid')
@@ -16,4 +16,4 @@ browser.get('http://uitestingplayground.com/dynamicid')
 button = browser.find_element(By.TAG_NAME, 'button')
 
 button.click()
-sleep(2)
+sleep(15)
