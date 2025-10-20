@@ -22,7 +22,10 @@ driver.find_element(By.CSS_SELECTOR, '#ajaxButton').click()
 driver.implicitly_wait(20)
 
 
-element = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#content')))
-txt = element.text
+
+wait = WebDriverWait(driver, 20)
+content = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, "p.bg-success")))
+txt = content.text
 print(txt)
-## driver.quit()
+
+driver.quit()
