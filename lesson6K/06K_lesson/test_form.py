@@ -69,9 +69,9 @@ for field_id in fields:
     wait = WebDriverWait(driver, 2)
     field_element = wait.until(EC.visibility_of_element_located((By.ID, field_id)))
     border_color = field_element.value_of_css_property("border-color")
-    assert border_color == "rgba(186, 219, 204, 1)", f"Поле {field_id} не подсвечено зеленым"
+    assert border_color == "rgb(186, 219, 204)" in border_color, f"Поле {field_id} не подсвечено зеленым"
 waiter = WebDriverWait(driver, 20)
-# driver.quit()
+driver.quit()
 
 
 
