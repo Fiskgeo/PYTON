@@ -66,6 +66,6 @@ def test_form():
         field_element = wait.until(EC.visibility_of_element_located((By.ID, field_id)))
         border_color = field_element.value_of_css_property("border-color")
     assert border_color == "rgb(186, 219, 204)" in border_color, f"Поле {field_id} не подсвечено зеленым"
-waiter = WebDriverWait(driver, 20)
-driver.quit()
+    waiter = WebDriverWait(driver, 20)
+    driver.quit()
 
