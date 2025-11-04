@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
-      <change afterPath="$PROJECT_DIR$/lesson7/07_lesson/pages_calculator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/07_lesson/test_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/07_lesson/pages_shop/BuyingPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/07_lesson/pages_shop/CartPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/07_lesson/pages_shop/LoginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/07_lesson/pages_shop/MainPageShop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/07_lesson/pages_shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/07_lesson/test_shop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6K/06K_lesson/test_01_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6K/06K_lesson/test_01_form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/07_lesson/pages_calculator/MainPageCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/07_lesson/pages_calculator/MainPageCalculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson7/07_lesson/pages_calculator/test_calculator.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,55 +79,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests in form.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_01_form.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_form.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_pytest.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in form.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_02_calc.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_03_shop.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_calculator.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_form.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.form.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson05_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson05_task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson05_task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3_task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3_task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3_task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.smartphone.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_01_form.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_02_calc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_03_shop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;lesson7&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in form.py.executor": "Run",
+    "Python tests.Python tests in test_01_form.py.executor": "Run",
+    "Python tests.Python tests in test_form.py.executor": "Run",
+    "Python tests.Python tests in test_pytest.py.executor": "Run",
+    "Python tests.pytest in form.py.executor": "Run",
+    "Python tests.pytest in test_02_calc.py.executor": "Run",
+    "Python tests.pytest in test_03_shop.py.executor": "Run",
+    "Python tests.pytest in test_calculator.py.executor": "Run",
+    "Python tests.pytest in test_form.py.executor": "Run",
+    "Python tests.pytest in test_shop.py.executor": "Run",
+    "Python.form.executor": "Run",
+    "Python.lesson05_task1.executor": "Run",
+    "Python.lesson05_task2.executor": "Run",
+    "Python.lesson05_task3.executor": "Run",
+    "Python.lesson_2_task_2.executor": "Run",
+    "Python.lesson_2_task_3.executor": "Run",
+    "Python.lesson_2_task_4.executor": "Run",
+    "Python.lesson_2_task_5.executor": "Run",
+    "Python.lesson_2_task_6.executor": "Run",
+    "Python.lesson_2_task_7.executor": "Run",
+    "Python.lesson_3_task_1.executor": "Run",
+    "Python.lesson_3_task_2.executor": "Run",
+    "Python.lesson_3_task_3.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.smartphone.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_01_form.executor": "Run",
+    "Python.test_02_calc.executor": "Run",
+    "Python.test_03_shop.executor": "Run",
+    "Python.user.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "lesson7",
+    "last_opened_file_path": "C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson7/07_lesson/pages_shop",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson7\07_lesson\pages_shop" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson7\07_lesson" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson3" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson2\02_lesson" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\PYTON\lesson2\02_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_calculator.py">
+  <component name="RunManager" selected="Python tests.pytest in test_shop.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
@@ -227,7 +233,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_form.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_shop.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,17 +246,17 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson6K/06K_lesson/test_form.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson7/07_lesson/test_shop.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_shop.py" />
         <item itemvalue="Python tests.pytest in test_calculator.py" />
         <item itemvalue="Python tests.pytest in test_02_calc.py" />
         <item itemvalue="Python.test_03_shop" />
         <item itemvalue="Python.test_02_calc" />
-        <item itemvalue="Python tests.pytest in test_form.py" />
       </list>
     </recent_temporary>
   </component>
@@ -613,7 +619,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762170737018</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1762264412150</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1762264412150</updated>
+    </task>
+    <task id="LOCAL-00045" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1762264455955</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1762264455955</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="UnknownFeatures">
