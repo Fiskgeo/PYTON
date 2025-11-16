@@ -1,0 +1,15 @@
+LOGIN = "rncrus@gmail.com"
+PASSWORD = "YV1018yougile"
+NAME = "Skypro"
+COMPANY_ID = "4f90eba3-946b-4074-b064-7f155570db06"
+USER_UUID = "d3afdef0-dd0f-40f0-aa3e-d4f03967bc00"
+ADMIN_ROLE = "admin"
+NEW_TITLE = "New_Project_Test"
+TEST_USER = {USER_UUID: ADMIN_ROLE}
+TITLE_GET_TEST = "Get_Project_Test"
+TITLE_EDIT_TEST = "Edit_Project_Test"
+EDITED_TITLE = "Edited_Project_Test"
+DELETED_STATUS = False
+NEW_TITLE_NEGATIVE = ""
+USER_UUID_NEGATIVE = "95bb52b4-fa9e-44bd-80b3-84a437b66df"
+TEST_USER_NEGATIVE = {USER_UUID_NEGATIVE: ADMIN_ROLE}
