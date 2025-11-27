@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
-      <change afterPath="$PROJECT_DIR$/lesson8/08_lesson/Project_YouGile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/08_lesson/test_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/08_lesson/test_post_api-v2_projects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/09_lesson/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/09_lesson/DataBaseClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/09_lesson/test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/09_lesson/test_db_students.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_10_2025_11_14_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_10_2025_11_14__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_10_2025_11_16_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_10_2025_11_16__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_10_2025_12_47_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_10_2025_12_47__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_10_2025_12_50_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_10_2025_12_50__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +51,7 @@
         <entry key="$PROJECT_DIR$/PYTON" value="lesson6K" />
       </map>
     </option>
-    <option name="RECENT_COMMON_BRANCH" value="lesson7" />
+    <option name="RECENT_COMMON_BRANCH" value="lesson8" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
@@ -52,22 +62,22 @@
     &quot;assignee&quot;: &quot;Fiskgeo&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Fiskgeo/PYTON&quot;,
-    &quot;accountId&quot;: &quot;fe5a9abb-710f-412f-885d-da94bb09adc2&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Fiskgeo/PYTON",
+    "accountId": "fe5a9abb-710f-412f-885d-da94bb09adc2"
   },
-  &quot;recentNewPullRequestHead&quot;: {
-    &quot;server&quot;: {
-      &quot;useHttp&quot;: false,
-      &quot;host&quot;: &quot;github.com&quot;,
-      &quot;port&quot;: null,
-      &quot;suffix&quot;: null
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
     },
-    &quot;owner&quot;: &quot;Fiskgeo&quot;,
-    &quot;repository&quot;: &quot;PYTON&quot;
+    "owner": "Fiskgeo",
+    "repository": "PYTON"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -81,6 +91,8 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python tests.Python tests in form.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_01_form.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_db_students.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_form.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_pytest.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest in form.py.executor&quot;: &quot;Run&quot;,
@@ -91,6 +103,7 @@
     &quot;Python tests.pytest in test_post_api-v2_projects.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest in test_post_api-v2_projects_positive.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest in test_shop.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.form.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson05_task1.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson05_task2.executor&quot;: &quot;Run&quot;,
@@ -115,7 +128,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;lesson8&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lesson9&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson7/07_lesson/pages_shop&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
@@ -131,7 +144,29 @@
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\PYTON\lesson2\02_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python tests.Python tests in test_db_students.py">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson9/09_lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson9/09_lesson/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
@@ -154,29 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_03_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_HW" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../test_03_shop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson6K/06K_lesson/test_02_calc.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,14 +199,12 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson6K/06K_lesson/test_02_calc.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson9/09_lesson/test_1.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson7/07_lesson/test_calculator.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_db_students.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,10 +214,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson7/07_lesson/test_calculator.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson9/09_lesson/test_db_students.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -246,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_db_students.py" />
+        <item itemvalue="Python tests.Python tests in test_1.py" />
+        <item itemvalue="Python.1" />
         <item itemvalue="Python tests.pytest in test_post_api-v2_projects.py" />
         <item itemvalue="Python tests.pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson7/07_lesson/test_shop.py" />
-        <item itemvalue="Python tests.pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson7/07_lesson/test_calculator.py" />
-        <item itemvalue="Python tests.pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson6K/06K_lesson/test_02_calc.py" />
-        <item itemvalue="Python.test_03_shop" />
       </list>
     </recent_temporary>
   </component>
@@ -268,14 +277,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758646896983</updated>
-    </task>
-    <task id="LOCAL-00003" summary="28-09-25">
-      <option name="closed" value="true" />
-      <created>1759822651878</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1759822651878</updated>
     </task>
     <task id="LOCAL-00004" summary="28-09-25">
       <option name="closed" value="true" />
@@ -661,7 +662,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763280459063</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1763883187001</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1763883187001</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="UnknownFeatures">
