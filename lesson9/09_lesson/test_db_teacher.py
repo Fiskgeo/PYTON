@@ -1,21 +1,21 @@
 import pytest
 from sqlalchemy import create_engine
-
 from DataBaseClass import TeacherTable
-
+from sqlalchemy.orm import sessionmaker
 db_connection_string = "postgresql://postgres:YV1018sql@localhost:5432/python_db"
 
 db = create_engine(db_connection_string)
-
+Session = sessionmaker(bind=db)
+session = Session()
 
 @pytest.fixture()
 def db_connection():
-    db = create_engine(db_connection_string)
-    conn = db.connect()
-    transaction = conn.begin()   # Начало транзакции
-    yield conn
+    #db = create_engine(db_connection_string)
+    #session = db.connect()
+    transaction = session.begin()   # Начало транзакции
+    yield session
     transaction.rollback()    # Откат изменений
-    conn.close()
+    session.close()
 
 
 def test_insert_and_delete_and_update(db_connection):
