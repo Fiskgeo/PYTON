@@ -144,7 +144,7 @@
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\PYTON\lesson2\02_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_db_students.py">
+  <component name="RunManager">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
@@ -189,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson9/09_lesson/test_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,7 +204,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_db_students.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_db_teacher.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +215,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson9/09_lesson/test_db_students.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson9/09_lesson/test_db_teacher.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -236,7 +236,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_post_api-v2_projects.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson8/08_lesson/test_post_api-v2_projects.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,10 +255,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_db_students.py" />
-        <item itemvalue="Python tests.Python tests in test_1.py" />
+        <item itemvalue="Python tests.Python tests in test_db_teacher.py" />
+        <item itemvalue="Python tests.Python tests in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson9/09_lesson/test_1.py" />
         <item itemvalue="Python.1" />
-        <item itemvalue="Python tests.pytest in test_post_api-v2_projects.py" />
+        <item itemvalue="Python tests.pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson8/08_lesson/test_post_api-v2_projects.py" />
         <item itemvalue="Python tests.pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson7/07_lesson/test_shop.py" />
       </list>
     </recent_temporary>
