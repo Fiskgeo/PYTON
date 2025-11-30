@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/MainPageCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/test_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCartPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCheckoutPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopLoginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopMainPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/Shop_obgect_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/test_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PYTHON_HW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON_HW.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/test_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/test_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,24 +124,26 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "lesson10",
-    "last_opened_file_path": "C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson10/lesson_10",
+    "git-widget-placeholder": "#40 on lesson10",
+    "last_opened_file_path": "C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson7/07_lesson",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson7\07_lesson" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson10\lesson_10" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson7\07_lesson\pages_shop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson10\lesson_10\allure-result" />
+      <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson10\lesson_10" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson7\07_lesson" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson3" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson2\02_lesson" />
-      <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\PYTON\lesson2\02_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in Shop_obgect_test.py">
+  <component name="RunManager" selected="Python tests.pytest in test_calculator.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
@@ -183,7 +181,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_db_teacher.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson9/09_lesson/test_db_teacher.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,6 +193,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson9/09_lesson/test_db_teacher.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson10/lesson_10/pages_shop/test_shop.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson10/lesson_10/pages_shop/test_shop.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -232,29 +247,12 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_shop.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_HW" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson10/lesson_10/pages_shop/test_shop.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in Shop_obgect_test.py" />
-        <item itemvalue="Python tests.pytest in test_shop.py" />
         <item itemvalue="Python tests.pytest in test_calculator.py" />
-        <item itemvalue="Python tests.Python tests in test_db_teacher.py" />
+        <item itemvalue="Python tests.pytest in Shop_obgect_test.py" />
+        <item itemvalue="Python tests.pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson10/lesson_10/pages_shop/test_shop.py" />
+        <item itemvalue="Python tests.Python tests in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson9/09_lesson/test_db_teacher.py" />
         <item itemvalue="Python tests.Python tests in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson9/09_lesson/test_1.py" />
       </list>
     </recent_temporary>
@@ -273,14 +271,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758646896983</updated>
-    </task>
-    <task id="LOCAL-00012" summary="07-10-25">
-      <option name="closed" value="true" />
-      <created>1759841777437</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1759841777437</updated>
     </task>
     <task id="LOCAL-00013" summary="07-10-25">
       <option name="closed" value="true" />
@@ -666,7 +656,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764498278514</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1764500479644</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1764500479644</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="UnknownFeatures">
