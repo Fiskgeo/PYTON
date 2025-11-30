@@ -14,17 +14,29 @@ class CheckoutPage:
         self.total_price = (By.XPATH, "//div[@class='summary_total_label']")
 
     def enter_first_name_input(self, first_name):
+        """
+                Ввод имени.
+                :first_name: имя
+        """
         first_name_input = self.driver.find_element(self.first_name_input)
         first_name_input.clear()
         first_name_input.send_keys('Алевтина')
 
     def enter_last_name_input(self, last_name):
+        """
+                        Ввод фамилии.
+                        :last_name: фамилия
+        """
         last_name_input = self.driver.find_element(self.last_name_input)
         last_name_input.clear()
         last_name_input.send_keys('Смирнова')
 
 
     def enter_postal_code(self, postal_code):
+        """
+                                Ввод почтового кода.
+                                :postal_code: почтовый код
+        """
         postal_code_input = self.driver.find_element(self.postal_code_input)
         postal_code_input.clear()
         postal_code_input.send_keys('198324')

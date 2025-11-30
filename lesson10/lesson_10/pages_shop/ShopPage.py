@@ -9,14 +9,20 @@ class MainPage:
         self.driver = browser
         self.driver.implicitly_wait(4)
 
-    # Добавляем товары в корзину
+
     def add_items_to_cart(self):
+        """
+                                Добавляем товары в корзину
+        """
         self.driver.find_element(By.CSS_SELECTOR, "#add-to-cart-sauce-labs-backpack").click()
         self.driver.find_element(By.CSS_SELECTOR, "#add-to-cart-sauce-labs-bolt-t-shirt").click()
         self.driver.find_element(By.CSS_SELECTOR, "#add-to-cart-sauce-labs-onesie").click()
 
-    # Ожидание появления товара в корзине
+
     def wait_for_cart_item(self):
+        """
+                                Ожидание появления товара в корзине
+        """
         WebDriverWait(self.driver, 15).until(
             EC.presence_of_element_located((By.ID, "shopping_cart_container"))).click()
 
@@ -74,8 +80,11 @@ class CartPage:
         self.driver.find_element(By.CSS_SELECTOR, "#checkout").click()
 
 
-    # Проверка содержимого корзины
+
     def verify_cart(self):
+        """
+                                        Проверка содержимого корзины
+        """
         cart_items = not self.driver.find_elements(By.CSS_SELECTOR, "#add-to-cart-sauce-labs-backpack").find_element(
             By.CSS_SELECTOR, "#add-to-cart-sauce-labs-bolt-t-shirt").find_elements(By.CSS_SELECTOR,
                                                                                    "#add-to-cart-sauce-labs-onesie").text

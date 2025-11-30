@@ -9,8 +9,12 @@ class CartPage:
         self.checkout_button = (By.CSS_SELECTOR, "#checkout")
         self.expected_items = expected_items
 
-    # Проверка содержимого корзины
+
     def verify_cart(self):
+        """
+                        Проверка содержимого корзины.
+
+        """
         cart_items = not self.driver.find_elements(By.CSS_SELECTOR, "#add-to-cart-sauce-labs-backpack").find_element(
             By.CSS_SELECTOR, "#add-to-cart-sauce-labs-bolt-t-shirt").find_elements(By.CSS_SELECTOR,
                                                                                    "#add-to-cart-sauce-labs-onesie").text

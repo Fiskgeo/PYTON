@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PYTHON_HW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON_HW.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/test_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/test_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/MainPageCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/MainPageCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCartPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCartPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCheckoutPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCheckoutPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopMainPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopMainPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/Shop_obgect_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/Shop_obgect_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,22 +272,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758646896983</updated>
-    </task>
-    <task id="LOCAL-00013" summary="07-10-25">
-      <option name="closed" value="true" />
-      <created>1759906540150</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1759906540150</updated>
-    </task>
-    <task id="LOCAL-00014" summary="07-10-25">
-      <option name="closed" value="true" />
-      <created>1759906693788</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1759906693788</updated>
     </task>
     <task id="LOCAL-00015" summary="07-10-25">
       <option name="closed" value="true" />
@@ -664,7 +649,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764500479644</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1764509414818</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1764509414818</updated>
+    </task>
+    <task id="LOCAL-00063" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1764509463076</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1764509463077</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="UnknownFeatures">

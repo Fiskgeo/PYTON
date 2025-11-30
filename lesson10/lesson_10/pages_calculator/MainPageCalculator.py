@@ -13,14 +13,26 @@ class CalculatorPage:
         self.driver.maximize_window()
 
     def set_delay(self, seconds):
+        """
+                Вводит время задержки в секундах в поле ввода.
+
+        """
         input_field = self.driver.find_element(By.ID, 'delay')
         input_field.clear()
         input_field.send_keys(seconds)
 
     def click_button(self, button):
+        """
+                        Находит кнопку и кликает по ней.
+
+                """
         self.driver.find_element(By.XPATH, f'//span[text() = "{button}"]').click()
 
 
     def wait_result(self, result):
+        """
+                       Ожидание результата.
+
+                """
         wait = WebDriverWait(self.driver, 46)
         wait.until(EC.text_to_be_present_in_element((By.CSS_SELECTOR, ".screen"), result))
