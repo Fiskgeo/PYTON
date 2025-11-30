@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
-      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,22 +267,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758646896983</updated>
-    </task>
-    <task id="LOCAL-00017" summary="07-10-25">
-      <option name="closed" value="true" />
-      <created>1759908187006</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1759908187006</updated>
-    </task>
-    <task id="LOCAL-00018" summary="07-10-25">
-      <option name="closed" value="true" />
-      <created>1759908520345</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1759908520345</updated>
     </task>
     <task id="LOCAL-00019" summary="07-10-25">
       <option name="closed" value="true" />
@@ -663,7 +644,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764512246888</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1764512861439</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1764512861439</updated>
+    </task>
+    <task id="LOCAL-00067" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1764512873334</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1764512873334</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="UnknownFeatures">
