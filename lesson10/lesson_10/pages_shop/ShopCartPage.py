@@ -4,6 +4,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 class CartPage:
 
     def __init__(self, browser):
+        """
+                                Заходим на сайт.
+
+        """
         self.driver = browser
         self.driver.get("https://www.saucedemo.com/cart.html")
         self.checkout_button = (By.CSS_SELECTOR, "#checkout")

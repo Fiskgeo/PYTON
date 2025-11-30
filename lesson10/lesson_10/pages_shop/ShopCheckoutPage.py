@@ -16,7 +16,10 @@ class CheckoutPage:
     def enter_first_name_input(self, first_name):
         """
                 Ввод имени.
-                :first_name: имя
+
+                :param first_name: имя.
+                :type first_name: str
+                :return: None
         """
         first_name_input = self.driver.find_element(self.first_name_input)
         first_name_input.clear()
@@ -25,7 +28,9 @@ class CheckoutPage:
     def enter_last_name_input(self, last_name):
         """
                         Ввод фамилии.
-                        :last_name: фамилия
+                        :param last_name: фамилия.
+                        :type last_name: str
+                        :return: None
         """
         last_name_input = self.driver.find_element(self.last_name_input)
         last_name_input.clear()
@@ -36,12 +41,20 @@ class CheckoutPage:
         """
                                 Ввод почтового кода.
                                 :postal_code: почтовый код
+                                :type postal_code: str
+                                :return: None
         """
         postal_code_input = self.driver.find_element(self.postal_code_input)
         postal_code_input.clear()
         postal_code_input.send_keys('198324')
 
     def click_continue(self):
+        """
+                Нажимает кнопку продолжения.
+
+                :return: True, если кнопка нажата успешно.
+                :rtype: bool
+        """
         continue_button = self.driver.find_element(self.continue_button)
         continue_button.click()
         WebDriverWait(self, driver, 10).untill(EC.presence_of_element_located((By.XPATH, "//div[@class='summary_total_label']")))

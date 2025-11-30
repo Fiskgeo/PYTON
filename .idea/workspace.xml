@@ -6,12 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/MainPageCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/MainPageCalculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCartPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCartPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCheckoutPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCheckoutPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopMainPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopMainPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/Shop_obgect_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/Shop_obgect_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +141,7 @@
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson2\02_lesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_calculator.py">
+  <component name="RunManager" selected="Python tests.pytest in Shop_obgect_test.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PYTHON_HW" />
       <option name="ENV_FILES" value="" />
@@ -250,8 +247,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_calculator.py" />
         <item itemvalue="Python tests.pytest in Shop_obgect_test.py" />
+        <item itemvalue="Python tests.pytest in test_calculator.py" />
         <item itemvalue="Python tests.pytest in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson10/lesson_10/pages_shop/test_shop.py" />
         <item itemvalue="Python tests.Python tests in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson9/09_lesson/test_db_teacher.py" />
         <item itemvalue="Python tests.Python tests in C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson9/09_lesson/test_1.py" />
@@ -272,14 +269,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758646896983</updated>
-    </task>
-    <task id="LOCAL-00015" summary="07-10-25">
-      <option name="closed" value="true" />
-      <created>1759907021196</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1759907021196</updated>
     </task>
     <task id="LOCAL-00016" summary="07-10-25">
       <option name="closed" value="true" />
@@ -665,7 +654,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764509463077</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1764510903963</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1764510903963</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="UnknownFeatures">

@@ -45,27 +45,57 @@ class CheckoutPage:
 
 
     def enter_first_name_input(self):
+        """
+                        Ввод имени.
+
+                        :param first_name: имя.
+                        :type first_name: str
+                        :return: None
+        """
         first_name_input = self.driver.find_element(By.ID, 'first-name')
         first_name_input.clear()
         first_name_input.send_keys('Алевтина')
 
     def enter_last_name_input(self):
+        """
+                                Ввод фамилии.
+                                :param last_name: фамилия.
+                                :type last_name: str
+                                :return: None
+        """
         last_name_input = self.driver.find_element(By.ID, 'last-name')
         last_name_input.clear()
         last_name_input.send_keys('Смирнова')
 
 
     def enter_postal_code(self):
+        """
+                                        Ввод почтового кода.
+                                        :postal_code: почтовый код
+                                        :type postal_code: str
+                                        :return: None
+        """
         postal_code_input = self.driver.find_element(By.ID, 'postal-code')
         postal_code_input.clear()
         postal_code_input.send_keys('198324')
 
     def click_continue(self):
+        """
+                        Нажимает кнопку продолжения.
+
+                        :return: True, если кнопка нажата успешно.
+                        :rtype: bool
+        """
         continue_button = self.driver.find_element(By.ID, 'continue')
         continue_button.click()
 
 
     def total_price(self):
+        """
+                                Получение общей суммы заказа.
+
+
+        """
         WebDriverWait(self.driver, 10, 0.1).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, ".summary_total_label")))
         total_price_element = self.driver.find_element(By.CSS_SELECTOR, ".summary_total_label")
