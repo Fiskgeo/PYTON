@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCartPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCartPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCheckoutPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopCheckoutPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/ShopPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +73,8 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -123,12 +123,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "#40 on lesson10",
-    "last_opened_file_path": "C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson7/07_lesson",
+    "last_opened_file_path": "C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson10/lesson_10/pages_calculator/allure-results",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson10\lesson_10\pages_calculator\allure-results" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson7\07_lesson" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson10\lesson_10" />
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson7\07_lesson\pages_shop" />
@@ -269,14 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758646896983</updated>
-    </task>
-    <task id="LOCAL-00016" summary="07-10-25">
-      <option name="closed" value="true" />
-      <created>1759907757558</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1759907757558</updated>
     </task>
     <task id="LOCAL-00017" summary="07-10-25">
       <option name="closed" value="true" />
@@ -662,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764510903963</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1764512246888</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1764512246888</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="UnknownFeatures">
