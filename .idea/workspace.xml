@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25" />
+    <list default="true" id="8d04fa20-c5a6-4110-941c-45716acdd686" name="Changes" comment="07-10-25">
+      <change beforePath="$PROJECT_DIR$/.idea/PYTHON_HW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON_HW.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/allure-results/731e306e-ee41-46f1-82bb-08801bf890f3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_calculator/allure-results/ac9bf137-05b0-4724-a9cc-243d90b19f5b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/Shop_obgect_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/lesson_10/pages_shop/Shop_obgect_test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,57 +79,57 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests in form.py.executor": "Run",
-    "Python tests.Python tests in test_01_form.py.executor": "Run",
-    "Python tests.Python tests in test_1.py.executor": "Run",
-    "Python tests.Python tests in test_db_students.py.executor": "Run",
-    "Python tests.Python tests in test_db_teacher.py.executor": "Run",
-    "Python tests.Python tests in test_form.py.executor": "Run",
-    "Python tests.Python tests in test_pytest.py.executor": "Run",
-    "Python tests.pytest in Shop_obgect_test.py.executor": "Run",
-    "Python tests.pytest in form.py.executor": "Run",
-    "Python tests.pytest in test_02_calc.py.executor": "Run",
-    "Python tests.pytest in test_03_shop.py.executor": "Run",
-    "Python tests.pytest in test_calculator.py.executor": "Run",
-    "Python tests.pytest in test_db_teacher.py.executor": "Run",
-    "Python tests.pytest in test_form.py.executor": "Run",
-    "Python tests.pytest in test_post_api-v2_projects.py.executor": "Run",
-    "Python tests.pytest in test_post_api-v2_projects_positive.py.executor": "Run",
-    "Python tests.pytest in test_shop.py.executor": "Run",
-    "Python.1.executor": "Run",
-    "Python.DataBaseClass.executor": "Run",
-    "Python.form.executor": "Run",
-    "Python.lesson05_task1.executor": "Run",
-    "Python.lesson05_task2.executor": "Run",
-    "Python.lesson05_task3.executor": "Run",
-    "Python.lesson_2_task_2.executor": "Run",
-    "Python.lesson_2_task_3.executor": "Run",
-    "Python.lesson_2_task_4.executor": "Run",
-    "Python.lesson_2_task_5.executor": "Run",
-    "Python.lesson_2_task_6.executor": "Run",
-    "Python.lesson_2_task_7.executor": "Run",
-    "Python.lesson_3_task_1.executor": "Run",
-    "Python.lesson_3_task_2.executor": "Run",
-    "Python.lesson_3_task_3.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.smartphone.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test_01_form.executor": "Run",
-    "Python.test_02_calc.executor": "Run",
-    "Python.test_03_shop.executor": "Run",
-    "Python.user.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "#40 on lesson10",
-    "last_opened_file_path": "C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson10/lesson_10/pages_calculator/allure-results",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in form.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_01_form.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_db_students.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_db_teacher.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_form.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_pytest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in Shop_obgect_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in form.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_02_calc.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_03_shop.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_calculator.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_db_teacher.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_form.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_post_api-v2_projects.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_post_api-v2_projects_positive.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_shop.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataBaseClass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.form.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson05_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson05_task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson05_task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smartphone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_01_form.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_02_calc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_03_shop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#40 on lesson10&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Юрий Волков/Desktop/GIT/PYTHON_HW/lesson10/lesson_10/pages_calculator/allure-results&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Юрий Волков\Desktop\GIT\PYTHON_HW\lesson10\lesson_10\pages_calculator\allure-results" />
@@ -267,14 +273,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758646896983</updated>
-    </task>
-    <task id="LOCAL-00019" summary="07-10-25">
-      <option name="closed" value="true" />
-      <created>1759910035884</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1759910035884</updated>
     </task>
     <task id="LOCAL-00020" summary="07-10-25">
       <option name="closed" value="true" />
@@ -660,7 +658,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764512873334</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="07-10-25">
+      <option name="closed" value="true" />
+      <created>1764513427521</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1764513427521</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="UnknownFeatures">
